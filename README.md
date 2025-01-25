@@ -12,8 +12,9 @@ ox_lib
 
 Installation:
 ensure that the dependancies are added and started
-add the following table to your database : rsg-weaponsmith.sql
-add rsg-weaponsmith to your resources folde
+add the following table to your database: 
+rsg-weaponsmith.sql
+add rsg-weaponsmith to your resources folder
 
 Add this too shared jobs:
 
