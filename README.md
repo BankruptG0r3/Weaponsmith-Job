@@ -1,9 +1,9 @@
 # Weaponsmith-Job
 Weaponsmith Job for RSG Framework
 
-originaly from RexshackGaming full credit goes too them
+originally from RexshackGaming full credit goes too them
 
-reworked the progress bar too use ox_lib to stop the errors
+reworked the progress bar too use ox_lib to stop Progrssbar errors
 
 Dependancies:
 
